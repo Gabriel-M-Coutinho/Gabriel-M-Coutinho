@@ -41,7 +41,7 @@ Desenvolvedor com 4 anos de experiência criando sistemas web e APIs. Atualmente
 ### 🎓 Formação
 
 **Tecnólogo em Desenvolvimento de Software Multiplataforma**  
-FATEC São Paulo *(cursando - 2024)*
+FATEC Jahu *(cursando - 2024)*
 
 ### 📊 GitHub Stats
 
