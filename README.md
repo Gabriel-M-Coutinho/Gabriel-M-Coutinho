@@ -1,61 +1,59 @@
-# Gabriel Magina Coutinho 👨‍💻
+# Olá! Eu sou Gabriel Magina Coutinho 👋
 
-## 🚀 Desenvolvedor Backend | Soluções Tecnológicas Personalizadas
+## 🚀 Desenvolvedor Backend | Java & JavaScript
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:5A189A,100:3A0CA3&height=200&section=header&text=Gabriel%20Magina%20Coutinho&fontSize=40&fontColor=ffffff&animation=fadeIn)
+Desenvolvedor com 4 anos de experiência criando sistemas web e APIs. Atualmente morando em Jaú-SP e buscando novas oportunidades para crescer profissionalmente.
 
-### 💡 Sobre Mim
-
-Sou um desenvolvedor de software apaixonado por criar soluções tecnológicas inovadoras. Com uma base sólida em desenvolvimento backend, transformo ideias complexas em sistemas eficientes e escaláveis.
-
-### 🛠️ Tecnologias & Ferramentas
+### 🔧 Tecnologias que uso no dia a dia
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </div>
 
-### 💼 Jornada Profissional
+### 💼 O que eu faço
 
-#### Desenvolvedor Freelancer (Atual)
+**🔹 Desenvolvedor Freelancer** *(2022 - Atual)*
+- Criei sistema completo de intranet para concessionária (Java + React)
+- Desenvolvimento de APIs REST para gestão de vendas e estoque
+- Trabalho com Docker para containerização das aplicações
 
-- 🌐 Criação de sistemas personalizados
-- 🔧 Desenvolvimento de APIs RESTful
-- 🚢 Arquitetura de microsserviços em Java, C# e Node.js
+**🔹 Analista de ERP** *(Pasquali Solution - 2020-2022)*
+- Desenvolvi APIs internas para automatizar processos comerciais
+- Integração entre ERP e sistemas internos usando Node.js
 
-#### Pasquali Solution (2020-2022)
+**🔹 Analista de Dados/RPA** *(Priori Solution - 2019-2020)*
+- Automações web com Python e Selenium
+- Reestruturação de bancos de dados desorganizados
 
-- 🖥️ Desenvolvimento de APIs e microsserviços
-- 📄 Documentação técnica detalhada
-- 🔍 Análise e otimização de sistemas
+### 🎯 Projetos em destaque
 
-#### Priori Solution (2019-2020)
+- **Sistema de Intranet para Concessionária**: Sistema completo para gestão de vendas, clientes e estoque
+- **Automações Web**: Scripts Python para extração e processamento de dados contábeis
+- **APIs de Integração**: Conectando ERPs com sistemas internos
 
-- 📊 Modelagem de dados estratégica
-- 🤖 Automação de processos com Python
-- 📈 Análise de dados avançada
+### 🎓 Formação
 
-### 🎓 Formação Acadêmica
+**Tecnólogo em Desenvolvimento de Software Multiplataforma**  
+FATEC São Paulo *(cursando - 2024)*
 
-Tecnólogo em Análise e Desenvolvimento de Sistemas - FATEC
-
-### 🌱 Interesses Profissionais
-
-- Backend Development
-- Arquitetura de Software
-- Metodologias Ágeis
-- Desenvolvimento de Soluções Escaláveis
-
-### 📫 Vamos Conectar?
+### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/seu-usuario" target="_blank">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-M-Coutinho&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+### 📫 Vamos conversar?
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/gabrielmaginacoutinho/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:BulboGC@gmail.com">
@@ -65,4 +63,3 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas - FATEC
 
 ---
 
-⭐️ Criado com ❤️ por Gabriel Magina Coutinho
