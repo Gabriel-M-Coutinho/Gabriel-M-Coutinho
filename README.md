@@ -1,6 +1,6 @@
 # Olá! Eu sou Gabriel Magina Coutinho 👋
 
-## 🚀 Desenvolvedor Backend | Java & JavaScript
+## 🚀 Desenvolvedor Backend | Java 
 
 Desenvolvedor com 4 anos de experiência criando sistemas web e APIs. Atualmente morando em Jaú-SP e buscando novas oportunidades para crescer profissionalmente.
 
